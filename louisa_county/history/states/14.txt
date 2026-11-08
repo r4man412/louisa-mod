@@ -1,0 +1,17 @@
+state = {
+	id = 14
+	name = "STATE_14"
+	manpower = 343
+	state_category = rural
+	history = {
+		owner = LOU
+		victory_points = { 651 1 }
+		add_core_of = LOU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		353 517 651 796 1283
+	}
+}

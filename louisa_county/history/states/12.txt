@@ -1,0 +1,18 @@
+state = {
+	id = 12
+	name = "STATE_12"
+	manpower = 1740
+	state_category = town
+	history = {
+		owner = LOU
+		victory_points = { 695 3 }
+		victory_points = { 8 1 }
+		add_core_of = LOU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		5 8 79 80 99 148 235 253 296 311 314 323 343 376 423 428 443 502 516 588 590 610 611 633 646 655 672 685 692 694 695 706 713 716 737 772 778 783 794 799 838 841 853 854 876 883 900 905 953
+	}
+}

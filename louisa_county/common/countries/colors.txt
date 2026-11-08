@@ -1,0 +1,4 @@
+LOU = {
+	color = rgb { 60 110 190 }
+	color_ui = rgb { 90 140 220 }
+}

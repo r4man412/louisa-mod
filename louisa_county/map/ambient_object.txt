@@ -1,0 +1,1 @@
+# none: the vanilla world-frame objects sit at vanilla map coordinates

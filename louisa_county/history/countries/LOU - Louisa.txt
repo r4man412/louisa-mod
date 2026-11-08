@@ -1,0 +1,15 @@
+capital = 11
+set_stability = 0.6
+set_war_support = 0.2
+set_politics = {
+	ruling_party = neutrality
+	last_election = "2025.11.04"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 50
+	fascism = 25
+	communism = 12.5 
+	neutrality = 12.5
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 20
+	name = "STATE_20"
+	manpower = 1456
+	state_category = rural
+	history = {
+		owner = LOU
+		victory_points = { 9 1 }
+		victory_points = { 15 1 }
+		victory_points = { 28 1 }
+		add_core_of = LOU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		9 15 28 81 141 182 196 199 209 216 265 294 306 318 335 413 479 510 543 551 567 578 596 650 722 751 776 786 819 851 874 887 908 970 972
+	}
+}

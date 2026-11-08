@@ -1,0 +1,23 @@
+strategic_region = {
+	id = 7
+	name = "STRATEGICREGION_7"
+	naval_terrain = water_shallow_sea
+	provinces = {
+		1029 1030 1031 1032 1033 1034 1035 1051 1052 1053 1054 1055 1056 1068 1069 1070 1071 1078 1079 1080 1081 1088 1089 1090 1095 1096 1097 1263 1268 1277
+	}
+	weather = {
+		period = {
+			between = { 0.0 30.11 }
+			temperature = { -4.0 32.0 }
+			no_phenomenon = 0.600
+			rain_light = 0.200
+			rain_heavy = 0.050
+			snow = 0.050
+			blizzard = 0.000
+			arctic_water = 0.000
+			mud = 0.100
+			sandstorm = 0.000
+			min_snow_level = 0.000
+		}
+	}
+}
